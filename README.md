@@ -21,7 +21,7 @@ Alexey Pronin ([@vulnbe](https://twitter.com/vulnbe))
 
 ## References
 
-* [Vulnerability analysis](https://vuln.be/post/yaws-shell-injection/)
+* [Vulnerability analysis](https://vuln.be/post/yaws-xxe-and-shell-injections/)
 * [Yaws on github](https://github.com/erlyaws/yaws)
 * [CVE-2020-24916](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-24916)
 * [CWE-78: Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')](https://cwe.mitre.org/data/definitions/78.html)
